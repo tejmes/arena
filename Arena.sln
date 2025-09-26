@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arena.Core", "Arena.Core\Arena.Core.csproj", "{FC5EA092-D1B2-412C-A2DB-1086421B63F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arena.ConsoleApp", "Arena.ConsoleApp\Arena.ConsoleApp.csproj", "{B4E3B2EC-E365-4A47-A9CF-C02C81077AE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC5EA092-D1B2-412C-A2DB-1086421B63F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5EA092-D1B2-412C-A2DB-1086421B63F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5EA092-D1B2-412C-A2DB-1086421B63F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5EA092-D1B2-412C-A2DB-1086421B63F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4E3B2EC-E365-4A47-A9CF-C02C81077AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E3B2EC-E365-4A47-A9CF-C02C81077AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E3B2EC-E365-4A47-A9CF-C02C81077AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E3B2EC-E365-4A47-A9CF-C02C81077AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BFA8992-313F-4B23-83AF-E4B8903B561F}
+	EndGlobalSection
+EndGlobal

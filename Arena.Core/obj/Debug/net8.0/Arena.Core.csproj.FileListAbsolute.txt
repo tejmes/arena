@@ -1,0 +1,11 @@
+C:\Users\tejme\Documents\Repos\Projects\Arena\Arena.Core\bin\Debug\net8.0\Arena.Core.deps.json
+C:\Users\tejme\Documents\Repos\Projects\Arena\Arena.Core\bin\Debug\net8.0\Arena.Core.dll
+C:\Users\tejme\Documents\Repos\Projects\Arena\Arena.Core\bin\Debug\net8.0\Arena.Core.pdb
+C:\Users\tejme\Documents\Repos\Projects\Arena\Arena.Core\obj\Debug\net8.0\Arena.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tejme\Documents\Repos\Projects\Arena\Arena.Core\obj\Debug\net8.0\Arena.Core.AssemblyInfoInputs.cache
+C:\Users\tejme\Documents\Repos\Projects\Arena\Arena.Core\obj\Debug\net8.0\Arena.Core.AssemblyInfo.cs
+C:\Users\tejme\Documents\Repos\Projects\Arena\Arena.Core\obj\Debug\net8.0\Arena.Core.csproj.CoreCompileInputs.cache
+C:\Users\tejme\Documents\Repos\Projects\Arena\Arena.Core\obj\Debug\net8.0\Arena.Core.dll
+C:\Users\tejme\Documents\Repos\Projects\Arena\Arena.Core\obj\Debug\net8.0\refint\Arena.Core.dll
+C:\Users\tejme\Documents\Repos\Projects\Arena\Arena.Core\obj\Debug\net8.0\Arena.Core.pdb
+C:\Users\tejme\Documents\Repos\Projects\Arena\Arena.Core\obj\Debug\net8.0\ref\Arena.Core.dll
